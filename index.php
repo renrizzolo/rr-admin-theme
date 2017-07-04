@@ -20,7 +20,6 @@ Author URI: https://github.com/renrizzolo
 function rr_admin_theme_style() {
     wp_enqueue_style('admin-theme', plugin_dir_url( __FILE__ ) . '/css/rr-admin-theme.css');
 }
-
 add_action('admin_enqueue_scripts', 'rr_admin_theme_style');
 
 ?>
