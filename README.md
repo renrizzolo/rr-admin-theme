@@ -1,6 +1,11 @@
 # rr-admin-theme
 Just a Wordpress admin theme.
 
+## preview
+![screenshot](https://github.com/renrizzolo/rr-admin-theme/blob/master/rr-admin-theme-closeup.png)
+
+![screenshot](https://github.com/renrizzolo/rr-admin-theme/blob/master/rr-admin-theme.png)
+
 ## Installation
 
 Clone or download  
@@ -42,5 +47,3 @@ wp_admin_css_color(
 );
 ```
 
-## preview
-![screenshot](https://github.com/renrizzolo/rr-admin-theme/blob/master/rr-admin-theme.png)
