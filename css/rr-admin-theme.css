@@ -199,8 +199,11 @@ div.updated {
   background-color: #435e94;
 }
 
-@media (min-width: 782px) and (min-width: 960px) {
+@media screen and (min-width: 960px) {
   body.auto-fold .edit-post-layout__content {
     margin-left: 200px;
+  }
+  .auto-fold .components-notice-list {
+    left: 200px;
   }
 }
